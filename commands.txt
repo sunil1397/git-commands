@@ -3,3 +3,6 @@ git status
 git clone
 git add .
 git commit -m "Initial Commit"
+git pull
+git fetch
+git push
