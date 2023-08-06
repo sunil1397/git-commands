@@ -1,0 +1,7 @@
+git init
+git add .
+git rm --cached // for remove to staging area
+git add .
+git commit -m "Massage"
+git log
+
