@@ -1,0 +1,2 @@
+all ok file
+problem file
